@@ -5,7 +5,7 @@
 <h2 align="center">HERE'S THE LANGUAGES I USE:</h2>
 <div align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandmuel&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandmuel&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" >
  </a>
  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandmuel&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" >
