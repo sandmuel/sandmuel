@@ -1,5 +1,5 @@
 <h1 align="center">✨HELLO!✨</h1>
-<h2 align="center">I'M A GAME DEVELOPER WHO MAKES GAMES WITH THE GODOT GAME ENGINE :D<h2>
+<h2 align="center">I'M A GAME DEVELOPER WHO MAKES GAMES WITH THE GODOT AND BEVY GAME ENGINES :D<h2>
 <p>I don't have very many public repos, but I've got a few things that may interest you, just check out "pinned"</p>
 
 <h2 align="center">...</h2>
